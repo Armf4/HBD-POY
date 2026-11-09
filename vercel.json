@@ -1,5 +1,5 @@
 {
   "routes": [
-    { "src": "/", "destination": "hbd.html" }
+    { "src": "/", "destination": "HBD.html" }
   ]
 }
